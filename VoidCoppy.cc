@@ -7,7 +7,7 @@ void CopyFct(){
     for (auto l = 0; l!=10; ++l)
         v2[l] = v1[l];
 
-    cout << v2[5] << endl;
+    cout << v2[0] << endl;
 }
 
 int main(){
